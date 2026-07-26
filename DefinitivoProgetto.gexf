@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-17">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Italian_Game" label="Italian_Game" />
+      <node id="French_Defense" label="French_Defense" />
+      <node id="Sicilian_Defense" label="Sicilian_Defense" />
+      <node id="CaroKann_Defense" label="CaroKann_Defense" />
+      <node id="Pirc_Defense" label="Pirc_Defense" />
+      <node id="Scandinavian_Defense" label="Scandinavian_Defense" />
+      <node id="Alekhine_Defense" label="Alekhine_Defense" />
+      <node id="Modern_Defense" label="Modern_Defense" />
+      <node id="Philidor_Defense" label="Philidor_Defense" />
+      <node id="Ruy_Lopez" label="Ruy_Lopez" />
+      <node id="Petrov_Defense" label="Petrov_Defense" />
+      <node id="King_Gambit" label="King_Gambit" />
+      <node id="Vienna_Game" label="Vienna_Game" />
+      <node id="Center_Game" label="Center_Game" />
+      <node id="Scotch_Game" label="Scotch_Game" />
+      <node id="Evans_Gambit" label="Evans_Gambit" />
+      <node id="Four_Knights_Game" label="Four_Knights_Game" />
+      <node id="Three_Knights_Game" label="Three_Knights_Game" />
+      <node id="King_Indian_Attack" label="King_Indian_Attack" />
+      <node id="English_Opening" label="English_Opening" />
+      <node id="Reversed_Sicilian" label="Reversed_Sicilian" />
+      <node id="Catalan_Opening" label="Catalan_Opening" />
+      <node id="Queen_Gambit" label="Queen_Gambit" />
+      <node id="Queen_Gambit_Accepted" label="Queen_Gambit_Accepted" />
+      <node id="Queen_Gambit_Declined" label="Queen_Gambit_Declined" />
+      <node id="Slav_Defense" label="Slav_Defense" />
+      <node id="Semi_Slav_Defense" label="Semi_Slav_Defense" />
+      <node id="Kings_Indian_Defense" label="Kings_Indian_Defense" />
+      <node id="Grunfeld_Defense" label="Grunfeld_Defense" />
+      <node id="Nimzo_Indian_Defense" label="Nimzo_Indian_Defense" />
+      <node id="Queen_Indian_Defense" label="Queen_Indian_Defense" />
+      <node id="Bogo_Indian_Defense" label="Bogo_Indian_Defense" />
+      <node id="Dutch_Defense" label="Dutch_Defense" />
+      <node id="Benoni_Defense" label="Benoni_Defense" />
+      <node id="Modern_Benoni" label="Modern_Benoni" />
+      <node id="Benko_Gambit" label="Benko_Gambit" />
+      <node id="Budapest_Gambit" label="Budapest_Gambit" />
+      <node id="Trompowsky_Attack" label="Trompowsky_Attack" />
+      <node id="London_System" label="London_System" />
+      <node id="Colle_System" label="Colle_System" />
+      <node id="Jobava_London" label="Jobava_London" />
+      <node id="Veresov_Attack" label="Veresov_Attack" />
+      <node id="Blackmar_Diemer_Gambit" label="Blackmar_Diemer_Gambit" />
+      <node id="Torre_Attack" label="Torre_Attack" />
+      <node id="Barry_Attack" label="Barry_Attack" />
+      <node id="King_Indian_Defense_Sämisch" label="King_Indian_Defense_Sämisch" />
+      <node id="Tarrasch_Defense" label="Tarrasch_Defense" />
+      <node id="Chigorin_Defense" label="Chigorin_Defense" />
+      <node id="Albin_Countergambit" label="Albin_Countergambit" />
+      <node id="King_Indian_Attack_French" label="King_Indian_Attack_French" />
+      <node id="Hippopotamus_Defense" label="Hippopotamus_Defense" />
+      <node id="Bird_Opening" label="Bird_Opening" />
+      <node id="Froms_Gambit" label="Froms_Gambit" />
+      <node id="Larsen_Opening" label="Larsen_Opening" />
+      <node id="Nimzo_Larsen_Attack" label="Nimzo_Larsen_Attack" />
+      <node id="Sokolsky_Opening" label="Sokolsky_Opening" />
+      <node id="Grob_Attack" label="Grob_Attack" />
+      <node id="Barnes_Opening" label="Barnes_Opening" />
+      <node id="Anderssen_Opening" label="Anderssen_Opening" />
+      <node id="Clemenz_Opening" label="Clemenz_Opening" />
+      <node id="Duras_Gambit" label="Duras_Gambit" />
+      <node id="Polish_Opening" label="Polish_Opening" />
+      <node id="Hungarian_Defense" label="Hungarian_Defense" />
+      <node id="Kadas_Opening" label="Kadas_Opening" />
+      <node id="Englund_Gambit" label="Englund_Gambit" />
+      <node id="Monkey_Opening" label="Monkey_Opening" />
+      <node id="Owen_Defense" label="Owen_Defense" />
+      <node id="St_George_Defense" label="St_George_Defense" />
+      <node id="Damiano_Defense" label="Damiano_Defense" />
+      <node id="MacLeod_Attack" label="MacLeod_Attack" />
+      <node id="Parham_Attack" label="Parham_Attack" />
+      <node id="Durkin_Opening" label="Durkin_Opening" />
+      <node id="King_Walk_Opening" label="King_Walk_Opening" />
+      <node id="Ware_Opening" label="Ware_Opening" />
+      <node id="Valencia_Opening" label="Valencia_Opening" />
+      <node id="Desprez_Opening" label="Desprez_Opening" />
+      <node id="Amar_Opening" label="Amar_Opening" />
+      <node id="Mieses_Opening" label="Mieses_Opening" />
+      <node id="Crab_Opening" label="Crab_Opening" />
+      <node id="Reversed_Alapin" label="Reversed_Alapin" />
+      <node id="Anglo_Dutch_Defense" label="Anglo_Dutch_Defense" />
+      <node id="Reti_Opening" label="Reti_Opening" />
+      <node id="KIA_via_Reti" label="KIA_via_Reti" />
+      <node id="Catalan_via_Reti" label="Catalan_via_Reti" />
+      <node id="English_Defense" label="English_Defense" />
+      <node id="Flohr_Mikenas_Attack" label="Flohr_Mikenas_Attack" />
+      <node id="Symmetrical_English" label="Symmetrical_English" />
+      <node id="King_Fianchetto" label="King_Fianchetto" />
+      <node id="Queen_Fianchetto" label="Queen_Fianchetto" />
+      <node id="Indian_Game" label="Indian_Game" />
+      <node id="Horwitz_Defense" label="Horwitz_Defense" />
+      <node id="Marshall_Attack" label="Marshall_Attack" />
+      <node id="Sveshnikov_Sicilian" label="Sveshnikov_Sicilian" />
+    </nodes>
+    <edges>
+      <edge source="Italian_Game" target="Philidor_Defense" id="0" />
+      <edge source="Italian_Game" target="Ruy_Lopez" id="1" />
+      <edge source="Italian_Game" target="Petrov_Defense" id="2" />
+      <edge source="Italian_Game" target="King_Gambit" id="3" />
+      <edge source="Italian_Game" target="Vienna_Game" id="4" />
+      <edge source="Italian_Game" target="Center_Game" id="5" />
+      <edge source="Italian_Game" target="Scotch_Game" id="6" />
+      <edge source="Italian_Game" target="Evans_Gambit" id="7" />
+      <edge source="Italian_Game" target="Four_Knights_Game" id="8" />
+      <edge source="Italian_Game" target="Three_Knights_Game" id="9" />
+      <edge source="Italian_Game" target="Hungarian_Defense" id="10" />
+      <edge source="Italian_Game" target="Damiano_Defense" id="11" />
+      <edge source="Italian_Game" target="MacLeod_Attack" id="12" />
+      <edge source="Italian_Game" target="Parham_Attack" id="13" />
+      <edge source="Italian_Game" target="King_Walk_Opening" id="14" />
+      <edge source="Italian_Game" target="Horwitz_Defense" id="15" />
+      <edge source="Italian_Game" target="Marshall_Attack" id="16" />
+      <edge source="French_Defense" target="King_Indian_Attack_French" id="17" />
+      <edge source="Sicilian_Defense" target="Sveshnikov_Sicilian" id="18" />
+      <edge source="Scandinavian_Defense" target="Duras_Gambit" id="19" />
+      <edge source="Modern_Defense" target="Hippopotamus_Defense" id="20" />
+      <edge source="Philidor_Defense" target="Ruy_Lopez" id="21" />
+      <edge source="Philidor_Defense" target="Petrov_Defense" id="22" />
+      <edge source="Philidor_Defense" target="King_Gambit" id="23" />
+      <edge source="Philidor_Defense" target="Vienna_Game" id="24" />
+      <edge source="Philidor_Defense" target="Center_Game" id="25" />
+      <edge source="Philidor_Defense" target="Scotch_Game" id="26" />
+      <edge source="Philidor_Defense" target="Evans_Gambit" id="27" />
+      <edge source="Philidor_Defense" target="Four_Knights_Game" id="28" />
+      <edge source="Philidor_Defense" target="Three_Knights_Game" id="29" />
+      <edge source="Philidor_Defense" target="Hungarian_Defense" id="30" />
+      <edge source="Philidor_Defense" target="Damiano_Defense" id="31" />
+      <edge source="Philidor_Defense" target="MacLeod_Attack" id="32" />
+      <edge source="Philidor_Defense" target="Parham_Attack" id="33" />
+      <edge source="Philidor_Defense" target="King_Walk_Opening" id="34" />
+      <edge source="Philidor_Defense" target="Horwitz_Defense" id="35" />
+      <edge source="Philidor_Defense" target="Marshall_Attack" id="36" />
+      <edge source="Ruy_Lopez" target="Petrov_Defense" id="37" />
+      <edge source="Ruy_Lopez" target="King_Gambit" id="38" />
+      <edge source="Ruy_Lopez" target="Vienna_Game" id="39" />
+      <edge source="Ruy_Lopez" target="Center_Game" id="40" />
+      <edge source="Ruy_Lopez" target="Scotch_Game" id="41" />
+      <edge source="Ruy_Lopez" target="Evans_Gambit" id="42" />
+      <edge source="Ruy_Lopez" target="Four_Knights_Game" id="43" />
+      <edge source="Ruy_Lopez" target="Three_Knights_Game" id="44" />
+      <edge source="Ruy_Lopez" target="Hungarian_Defense" id="45" />
+      <edge source="Ruy_Lopez" target="Damiano_Defense" id="46" />
+      <edge source="Ruy_Lopez" target="MacLeod_Attack" id="47" />
+      <edge source="Ruy_Lopez" target="Parham_Attack" id="48" />
+      <edge source="Ruy_Lopez" target="King_Walk_Opening" id="49" />
+      <edge source="Ruy_Lopez" target="Horwitz_Defense" id="50" />
+      <edge source="Ruy_Lopez" target="Marshall_Attack" id="51" />
+      <edge source="Petrov_Defense" target="King_Gambit" id="52" />
+      <edge source="Petrov_Defense" target="Vienna_Game" id="53" />
+      <edge source="Petrov_Defense" target="Center_Game" id="54" />
+      <edge source="Petrov_Defense" target="Scotch_Game" id="55" />
+      <edge source="Petrov_Defense" target="Evans_Gambit" id="56" />
+      <edge source="Petrov_Defense" target="Four_Knights_Game" id="57" />
+      <edge source="Petrov_Defense" target="Three_Knights_Game" id="58" />
+      <edge source="Petrov_Defense" target="Hungarian_Defense" id="59" />
+      <edge source="Petrov_Defense" target="Damiano_Defense" id="60" />
+      <edge source="Petrov_Defense" target="MacLeod_Attack" id="61" />
+      <edge source="Petrov_Defense" target="Parham_Attack" id="62" />
+      <edge source="Petrov_Defense" target="King_Walk_Opening" id="63" />
+      <edge source="Petrov_Defense" target="Horwitz_Defense" id="64" />
+      <edge source="Petrov_Defense" target="Marshall_Attack" id="65" />
+      <edge source="King_Gambit" target="Vienna_Game" id="66" />
+      <edge source="King_Gambit" target="Center_Game" id="67" />
+      <edge source="King_Gambit" target="Scotch_Game" id="68" />
+      <edge source="King_Gambit" target="Evans_Gambit" id="69" />
+      <edge source="King_Gambit" target="Four_Knights_Game" id="70" />
+      <edge source="King_Gambit" target="Three_Knights_Game" id="71" />
+      <edge source="King_Gambit" target="Hungarian_Defense" id="72" />
+      <edge source="King_Gambit" target="Damiano_Defense" id="73" />
+      <edge source="King_Gambit" target="MacLeod_Attack" id="74" />
+      <edge source="King_Gambit" target="Parham_Attack" id="75" />
+      <edge source="King_Gambit" target="King_Walk_Opening" id="76" />
+      <edge source="King_Gambit" target="Horwitz_Defense" id="77" />
+      <edge source="King_Gambit" target="Marshall_Attack" id="78" />
+      <edge source="Vienna_Game" target="Center_Game" id="79" />
+      <edge source="Vienna_Game" target="Scotch_Game" id="80" />
+      <edge source="Vienna_Game" target="Evans_Gambit" id="81" />
+      <edge source="Vienna_Game" target="Four_Knights_Game" id="82" />
+      <edge source="Vienna_Game" target="Three_Knights_Game" id="83" />
+      <edge source="Vienna_Game" target="Hungarian_Defense" id="84" />
+      <edge source="Vienna_Game" target="Damiano_Defense" id="85" />
+      <edge source="Vienna_Game" target="MacLeod_Attack" id="86" />
+      <edge source="Vienna_Game" target="Parham_Attack" id="87" />
+      <edge source="Vienna_Game" target="King_Walk_Opening" id="88" />
+      <edge source="Vienna_Game" target="Horwitz_Defense" id="89" />
+      <edge source="Vienna_Game" target="Marshall_Attack" id="90" />
+      <edge source="Center_Game" target="Scotch_Game" id="91" />
+      <edge source="Center_Game" target="Evans_Gambit" id="92" />
+      <edge source="Center_Game" target="Four_Knights_Game" id="93" />
+      <edge source="Center_Game" target="Three_Knights_Game" id="94" />
+      <edge source="Center_Game" target="Hungarian_Defense" id="95" />
+      <edge source="Center_Game" target="Damiano_Defense" id="96" />
+      <edge source="Center_Game" target="MacLeod_Attack" id="97" />
+      <edge source="Center_Game" target="Parham_Attack" id="98" />
+      <edge source="Center_Game" target="King_Walk_Opening" id="99" />
+      <edge source="Center_Game" target="Horwitz_Defense" id="100" />
+      <edge source="Center_Game" target="Marshall_Attack" id="101" />
+      <edge source="Scotch_Game" target="Evans_Gambit" id="102" />
+      <edge source="Scotch_Game" target="Four_Knights_Game" id="103" />
+      <edge source="Scotch_Game" target="Three_Knights_Game" id="104" />
+      <edge source="Scotch_Game" target="Hungarian_Defense" id="105" />
+      <edge source="Scotch_Game" target="Damiano_Defense" id="106" />
+      <edge source="Scotch_Game" target="MacLeod_Attack" id="107" />
+      <edge source="Scotch_Game" target="Parham_Attack" id="108" />
+      <edge source="Scotch_Game" target="King_Walk_Opening" id="109" />
+      <edge source="Scotch_Game" target="Horwitz_Defense" id="110" />
+      <edge source="Scotch_Game" target="Marshall_Attack" id="111" />
+      <edge source="Evans_Gambit" target="Four_Knights_Game" id="112" />
+      <edge source="Evans_Gambit" target="Three_Knights_Game" id="113" />
+      <edge source="Evans_Gambit" target="Hungarian_Defense" id="114" />
+      <edge source="Evans_Gambit" target="Damiano_Defense" id="115" />
+      <edge source="Evans_Gambit" target="MacLeod_Attack" id="116" />
+      <edge source="Evans_Gambit" target="Parham_Attack" id="117" />
+      <edge source="Evans_Gambit" target="King_Walk_Opening" id="118" />
+      <edge source="Evans_Gambit" target="Horwitz_Defense" id="119" />
+      <edge source="Evans_Gambit" target="Marshall_Attack" id="120" />
+      <edge source="Four_Knights_Game" target="Three_Knights_Game" id="121" />
+      <edge source="Four_Knights_Game" target="Hungarian_Defense" id="122" />
+      <edge source="Four_Knights_Game" target="Damiano_Defense" id="123" />
+      <edge source="Four_Knights_Game" target="MacLeod_Attack" id="124" />
+      <edge source="Four_Knights_Game" target="Parham_Attack" id="125" />
+      <edge source="Four_Knights_Game" target="King_Walk_Opening" id="126" />
+      <edge source="Four_Knights_Game" target="Horwitz_Defense" id="127" />
+      <edge source="Four_Knights_Game" target="Marshall_Attack" id="128" />
+      <edge source="Three_Knights_Game" target="Hungarian_Defense" id="129" />
+      <edge source="Three_Knights_Game" target="Damiano_Defense" id="130" />
+      <edge source="Three_Knights_Game" target="MacLeod_Attack" id="131" />
+      <edge source="Three_Knights_Game" target="Parham_Attack" id="132" />
+      <edge source="Three_Knights_Game" target="King_Walk_Opening" id="133" />
+      <edge source="Three_Knights_Game" target="Horwitz_Defense" id="134" />
+      <edge source="Three_Knights_Game" target="Marshall_Attack" id="135" />
+      <edge source="Catalan_Opening" target="Kings_Indian_Defense" id="136" />
+      <edge source="Catalan_Opening" target="Grunfeld_Defense" id="137" />
+      <edge source="Catalan_Opening" target="Nimzo_Indian_Defense" id="138" />
+      <edge source="Catalan_Opening" target="Queen_Indian_Defense" id="139" />
+      <edge source="Catalan_Opening" target="Bogo_Indian_Defense" id="140" />
+      <edge source="Catalan_Opening" target="Benoni_Defense" id="141" />
+      <edge source="Catalan_Opening" target="Modern_Benoni" id="142" />
+      <edge source="Catalan_Opening" target="Benko_Gambit" id="143" />
+      <edge source="Catalan_Opening" target="Budapest_Gambit" id="144" />
+      <edge source="Catalan_Opening" target="Trompowsky_Attack" id="145" />
+      <edge source="Catalan_Opening" target="Torre_Attack" id="146" />
+      <edge source="Catalan_Opening" target="Barry_Attack" id="147" />
+      <edge source="Catalan_Opening" target="King_Indian_Defense_Sämisch" id="148" />
+      <edge source="Catalan_Opening" target="Indian_Game" id="149" />
+      <edge source="Queen_Gambit" target="Queen_Gambit_Accepted" id="150" />
+      <edge source="Queen_Gambit" target="Queen_Gambit_Declined" id="151" />
+      <edge source="Queen_Gambit" target="Slav_Defense" id="152" />
+      <edge source="Queen_Gambit" target="Semi_Slav_Defense" id="153" />
+      <edge source="Queen_Gambit" target="London_System" id="154" />
+      <edge source="Queen_Gambit" target="Colle_System" id="155" />
+      <edge source="Queen_Gambit" target="Jobava_London" id="156" />
+      <edge source="Queen_Gambit" target="Veresov_Attack" id="157" />
+      <edge source="Queen_Gambit" target="Blackmar_Diemer_Gambit" id="158" />
+      <edge source="Queen_Gambit" target="Tarrasch_Defense" id="159" />
+      <edge source="Queen_Gambit" target="Chigorin_Defense" id="160" />
+      <edge source="Queen_Gambit" target="Albin_Countergambit" id="161" />
+      <edge source="Queen_Gambit_Accepted" target="Queen_Gambit_Declined" id="162" />
+      <edge source="Queen_Gambit_Accepted" target="Slav_Defense" id="163" />
+      <edge source="Queen_Gambit_Accepted" target="Semi_Slav_Defense" id="164" />
+      <edge source="Queen_Gambit_Accepted" target="London_System" id="165" />
+      <edge source="Queen_Gambit_Accepted" target="Colle_System" id="166" />
+      <edge source="Queen_Gambit_Accepted" target="Jobava_London" id="167" />
+      <edge source="Queen_Gambit_Accepted" target="Veresov_Attack" id="168" />
+      <edge source="Queen_Gambit_Accepted" target="Blackmar_Diemer_Gambit" id="169" />
+      <edge source="Queen_Gambit_Accepted" target="Tarrasch_Defense" id="170" />
+      <edge source="Queen_Gambit_Accepted" target="Chigorin_Defense" id="171" />
+      <edge source="Queen_Gambit_Accepted" target="Albin_Countergambit" id="172" />
+      <edge source="Queen_Gambit_Declined" target="Slav_Defense" id="173" />
+      <edge source="Queen_Gambit_Declined" target="Semi_Slav_Defense" id="174" />
+      <edge source="Queen_Gambit_Declined" target="London_System" id="175" />
+      <edge source="Queen_Gambit_Declined" target="Colle_System" id="176" />
+      <edge source="Queen_Gambit_Declined" target="Jobava_London" id="177" />
+      <edge source="Queen_Gambit_Declined" target="Veresov_Attack" id="178" />
+      <edge source="Queen_Gambit_Declined" target="Blackmar_Diemer_Gambit" id="179" />
+      <edge source="Queen_Gambit_Declined" target="Tarrasch_Defense" id="180" />
+      <edge source="Queen_Gambit_Declined" target="Chigorin_Defense" id="181" />
+      <edge source="Queen_Gambit_Declined" target="Albin_Countergambit" id="182" />
+      <edge source="Slav_Defense" target="Semi_Slav_Defense" id="183" />
+      <edge source="Slav_Defense" target="London_System" id="184" />
+      <edge source="Slav_Defense" target="Colle_System" id="185" />
+      <edge source="Slav_Defense" target="Jobava_London" id="186" />
+      <edge source="Slav_Defense" target="Veresov_Attack" id="187" />
+      <edge source="Slav_Defense" target="Blackmar_Diemer_Gambit" id="188" />
+      <edge source="Slav_Defense" target="Tarrasch_Defense" id="189" />
+      <edge source="Slav_Defense" target="Chigorin_Defense" id="190" />
+      <edge source="Slav_Defense" target="Albin_Countergambit" id="191" />
+      <edge source="Semi_Slav_Defense" target="London_System" id="192" />
+      <edge source="Semi_Slav_Defense" target="Colle_System" id="193" />
+      <edge source="Semi_Slav_Defense" target="Jobava_London" id="194" />
+      <edge source="Semi_Slav_Defense" target="Veresov_Attack" id="195" />
+      <edge source="Semi_Slav_Defense" target="Blackmar_Diemer_Gambit" id="196" />
+      <edge source="Semi_Slav_Defense" target="Tarrasch_Defense" id="197" />
+      <edge source="Semi_Slav_Defense" target="Chigorin_Defense" id="198" />
+      <edge source="Semi_Slav_Defense" target="Albin_Countergambit" id="199" />
+      <edge source="Kings_Indian_Defense" target="Grunfeld_Defense" id="200" />
+      <edge source="Kings_Indian_Defense" target="Nimzo_Indian_Defense" id="201" />
+      <edge source="Kings_Indian_Defense" target="Queen_Indian_Defense" id="202" />
+      <edge source="Kings_Indian_Defense" target="Bogo_Indian_Defense" id="203" />
+      <edge source="Kings_Indian_Defense" target="Benoni_Defense" id="204" />
+      <edge source="Kings_Indian_Defense" target="Modern_Benoni" id="205" />
+      <edge source="Kings_Indian_Defense" target="Benko_Gambit" id="206" />
+      <edge source="Kings_Indian_Defense" target="Budapest_Gambit" id="207" />
+      <edge source="Kings_Indian_Defense" target="Trompowsky_Attack" id="208" />
+      <edge source="Kings_Indian_Defense" target="Torre_Attack" id="209" />
+      <edge source="Kings_Indian_Defense" target="Barry_Attack" id="210" />
+      <edge source="Kings_Indian_Defense" target="King_Indian_Defense_Sämisch" id="211" />
+      <edge source="Kings_Indian_Defense" target="Indian_Game" id="212" />
+      <edge source="Grunfeld_Defense" target="Nimzo_Indian_Defense" id="213" />
+      <edge source="Grunfeld_Defense" target="Queen_Indian_Defense" id="214" />
+      <edge source="Grunfeld_Defense" target="Bogo_Indian_Defense" id="215" />
+      <edge source="Grunfeld_Defense" target="Benoni_Defense" id="216" />
+      <edge source="Grunfeld_Defense" target="Modern_Benoni" id="217" />
+      <edge source="Grunfeld_Defense" target="Benko_Gambit" id="218" />
+      <edge source="Grunfeld_Defense" target="Budapest_Gambit" id="219" />
+      <edge source="Grunfeld_Defense" target="Trompowsky_Attack" id="220" />
+      <edge source="Grunfeld_Defense" target="Torre_Attack" id="221" />
+      <edge source="Grunfeld_Defense" target="Barry_Attack" id="222" />
+      <edge source="Grunfeld_Defense" target="King_Indian_Defense_Sämisch" id="223" />
+      <edge source="Grunfeld_Defense" target="Indian_Game" id="224" />
+      <edge source="Nimzo_Indian_Defense" target="Queen_Indian_Defense" id="225" />
+      <edge source="Nimzo_Indian_Defense" target="Bogo_Indian_Defense" id="226" />
+      <edge source="Nimzo_Indian_Defense" target="Benoni_Defense" id="227" />
+      <edge source="Nimzo_Indian_Defense" target="Modern_Benoni" id="228" />
+      <edge source="Nimzo_Indian_Defense" target="Benko_Gambit" id="229" />
+      <edge source="Nimzo_Indian_Defense" target="Budapest_Gambit" id="230" />
+      <edge source="Nimzo_Indian_Defense" target="Trompowsky_Attack" id="231" />
+      <edge source="Nimzo_Indian_Defense" target="Torre_Attack" id="232" />
+      <edge source="Nimzo_Indian_Defense" target="Barry_Attack" id="233" />
+      <edge source="Nimzo_Indian_Defense" target="King_Indian_Defense_Sämisch" id="234" />
+      <edge source="Nimzo_Indian_Defense" target="Indian_Game" id="235" />
+      <edge source="Queen_Indian_Defense" target="Bogo_Indian_Defense" id="236" />
+      <edge source="Queen_Indian_Defense" target="Benoni_Defense" id="237" />
+      <edge source="Queen_Indian_Defense" target="Modern_Benoni" id="238" />
+      <edge source="Queen_Indian_Defense" target="Benko_Gambit" id="239" />
+      <edge source="Queen_Indian_Defense" target="Budapest_Gambit" id="240" />
+      <edge source="Queen_Indian_Defense" target="Trompowsky_Attack" id="241" />
+      <edge source="Queen_Indian_Defense" target="Torre_Attack" id="242" />
+      <edge source="Queen_Indian_Defense" target="Barry_Attack" id="243" />
+      <edge source="Queen_Indian_Defense" target="King_Indian_Defense_Sämisch" id="244" />
+      <edge source="Queen_Indian_Defense" target="Indian_Game" id="245" />
+      <edge source="Bogo_Indian_Defense" target="Benoni_Defense" id="246" />
+      <edge source="Bogo_Indian_Defense" target="Modern_Benoni" id="247" />
+      <edge source="Bogo_Indian_Defense" target="Benko_Gambit" id="248" />
+      <edge source="Bogo_Indian_Defense" target="Budapest_Gambit" id="249" />
+      <edge source="Bogo_Indian_Defense" target="Trompowsky_Attack" id="250" />
+      <edge source="Bogo_Indian_Defense" target="Torre_Attack" id="251" />
+      <edge source="Bogo_Indian_Defense" target="Barry_Attack" id="252" />
+      <edge source="Bogo_Indian_Defense" target="King_Indian_Defense_Sämisch" id="253" />
+      <edge source="Bogo_Indian_Defense" target="Indian_Game" id="254" />
+      <edge source="Benoni_Defense" target="Modern_Benoni" id="255" />
+      <edge source="Benoni_Defense" target="Benko_Gambit" id="256" />
+      <edge source="Benoni_Defense" target="Budapest_Gambit" id="257" />
+      <edge source="Benoni_Defense" target="Trompowsky_Attack" id="258" />
+      <edge source="Benoni_Defense" target="Torre_Attack" id="259" />
+      <edge source="Benoni_Defense" target="Barry_Attack" id="260" />
+      <edge source="Benoni_Defense" target="King_Indian_Defense_Sämisch" id="261" />
+      <edge source="Benoni_Defense" target="Indian_Game" id="262" />
+      <edge source="Modern_Benoni" target="Benko_Gambit" id="263" />
+      <edge source="Modern_Benoni" target="Budapest_Gambit" id="264" />
+      <edge source="Modern_Benoni" target="Trompowsky_Attack" id="265" />
+      <edge source="Modern_Benoni" target="Torre_Attack" id="266" />
+      <edge source="Modern_Benoni" target="Barry_Attack" id="267" />
+      <edge source="Modern_Benoni" target="King_Indian_Defense_Sämisch" id="268" />
+      <edge source="Modern_Benoni" target="Indian_Game" id="269" />
+      <edge source="Benko_Gambit" target="Budapest_Gambit" id="270" />
+      <edge source="Benko_Gambit" target="Trompowsky_Attack" id="271" />
+      <edge source="Benko_Gambit" target="Torre_Attack" id="272" />
+      <edge source="Benko_Gambit" target="Barry_Attack" id="273" />
+      <edge source="Benko_Gambit" target="King_Indian_Defense_Sämisch" id="274" />
+      <edge source="Benko_Gambit" target="Indian_Game" id="275" />
+      <edge source="Budapest_Gambit" target="Trompowsky_Attack" id="276" />
+      <edge source="Budapest_Gambit" target="Torre_Attack" id="277" />
+      <edge source="Budapest_Gambit" target="Barry_Attack" id="278" />
+      <edge source="Budapest_Gambit" target="King_Indian_Defense_Sämisch" id="279" />
+      <edge source="Budapest_Gambit" target="Indian_Game" id="280" />
+      <edge source="Trompowsky_Attack" target="Torre_Attack" id="281" />
+      <edge source="Trompowsky_Attack" target="Barry_Attack" id="282" />
+      <edge source="Trompowsky_Attack" target="King_Indian_Defense_Sämisch" id="283" />
+      <edge source="Trompowsky_Attack" target="Indian_Game" id="284" />
+      <edge source="London_System" target="Colle_System" id="285" />
+      <edge source="London_System" target="Jobava_London" id="286" />
+      <edge source="London_System" target="Veresov_Attack" id="287" />
+      <edge source="London_System" target="Blackmar_Diemer_Gambit" id="288" />
+      <edge source="London_System" target="Tarrasch_Defense" id="289" />
+      <edge source="London_System" target="Chigorin_Defense" id="290" />
+      <edge source="London_System" target="Albin_Countergambit" id="291" />
+      <edge source="Colle_System" target="Jobava_London" id="292" />
+      <edge source="Colle_System" target="Veresov_Attack" id="293" />
+      <edge source="Colle_System" target="Blackmar_Diemer_Gambit" id="294" />
+      <edge source="Colle_System" target="Tarrasch_Defense" id="295" />
+      <edge source="Colle_System" target="Chigorin_Defense" id="296" />
+      <edge source="Colle_System" target="Albin_Countergambit" id="297" />
+      <edge source="Jobava_London" target="Veresov_Attack" id="298" />
+      <edge source="Jobava_London" target="Blackmar_Diemer_Gambit" id="299" />
+      <edge source="Jobava_London" target="Tarrasch_Defense" id="300" />
+      <edge source="Jobava_London" target="Chigorin_Defense" id="301" />
+      <edge source="Jobava_London" target="Albin_Countergambit" id="302" />
+      <edge source="Veresov_Attack" target="Blackmar_Diemer_Gambit" id="303" />
+      <edge source="Veresov_Attack" target="Tarrasch_Defense" id="304" />
+      <edge source="Veresov_Attack" target="Chigorin_Defense" id="305" />
+      <edge source="Veresov_Attack" target="Albin_Countergambit" id="306" />
+      <edge source="Blackmar_Diemer_Gambit" target="Tarrasch_Defense" id="307" />
+      <edge source="Blackmar_Diemer_Gambit" target="Chigorin_Defense" id="308" />
+      <edge source="Blackmar_Diemer_Gambit" target="Albin_Countergambit" id="309" />
+      <edge source="Torre_Attack" target="Barry_Attack" id="310" />
+      <edge source="Torre_Attack" target="King_Indian_Defense_Sämisch" id="311" />
+      <edge source="Torre_Attack" target="Indian_Game" id="312" />
+      <edge source="Barry_Attack" target="King_Indian_Defense_Sämisch" id="313" />
+      <edge source="Barry_Attack" target="Indian_Game" id="314" />
+      <edge source="King_Indian_Defense_Sämisch" target="Indian_Game" id="315" />
+      <edge source="Tarrasch_Defense" target="Chigorin_Defense" id="316" />
+      <edge source="Tarrasch_Defense" target="Albin_Countergambit" id="317" />
+      <edge source="Chigorin_Defense" target="Albin_Countergambit" id="318" />
+      <edge source="Hungarian_Defense" target="Damiano_Defense" id="319" />
+      <edge source="Hungarian_Defense" target="MacLeod_Attack" id="320" />
+      <edge source="Hungarian_Defense" target="Parham_Attack" id="321" />
+      <edge source="Hungarian_Defense" target="King_Walk_Opening" id="322" />
+      <edge source="Hungarian_Defense" target="Horwitz_Defense" id="323" />
+      <edge source="Hungarian_Defense" target="Marshall_Attack" id="324" />
+      <edge source="Damiano_Defense" target="MacLeod_Attack" id="325" />
+      <edge source="Damiano_Defense" target="Parham_Attack" id="326" />
+      <edge source="Damiano_Defense" target="King_Walk_Opening" id="327" />
+      <edge source="Damiano_Defense" target="Horwitz_Defense" id="328" />
+      <edge source="Damiano_Defense" target="Marshall_Attack" id="329" />
+      <edge source="MacLeod_Attack" target="Parham_Attack" id="330" />
+      <edge source="MacLeod_Attack" target="King_Walk_Opening" id="331" />
+      <edge source="MacLeod_Attack" target="Horwitz_Defense" id="332" />
+      <edge source="MacLeod_Attack" target="Marshall_Attack" id="333" />
+      <edge source="Parham_Attack" target="King_Walk_Opening" id="334" />
+      <edge source="Parham_Attack" target="Horwitz_Defense" id="335" />
+      <edge source="Parham_Attack" target="Marshall_Attack" id="336" />
+      <edge source="King_Walk_Opening" target="Horwitz_Defense" id="337" />
+      <edge source="King_Walk_Opening" target="Marshall_Attack" id="338" />
+      <edge source="Horwitz_Defense" target="Marshall_Attack" id="339" />
+    </edges>
+  </graph>
+</gexf>
